@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-ADP631FA2",
+      "appliesTo": "ADP631FA2.csproj",
+      "type": "msbuild"
+    }
+  ]
+}
